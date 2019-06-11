@@ -1,3 +1,10 @@
+/*********TACHLOG powered********
+*********www.troncart.com*******
+**electronics components online**
+***********E PAPER**************
+***********13-035-2019**************
+*/
+
 #define trigPin 13
 #define echoPin 12
 #define greenLED 11
