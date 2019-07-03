@@ -1,7 +1,7 @@
 /*********TACHLOG powered********
 *********www.troncart.com*******
 **electronics components online**
-***********E PAPER**************
+***********Distance measurement using ultrasonic signals**************
 ***********13-035-2019**************
 */
 
